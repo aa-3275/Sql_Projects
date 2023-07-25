@@ -1,2 +1,2 @@
 # Sql_Projects
-This repository consist of SQL codes for of HR management database.
+This repository consists of SQL codes for the HR management database.
